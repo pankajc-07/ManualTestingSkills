@@ -1,0 +1,18 @@
+﻿# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/settings.json
+
+# Node modules
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment & secrets
+.env
+*.token
