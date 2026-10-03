@@ -15,4 +15,8 @@ __pycache__/
 
 # Environment & secrets
 .env
+.ENV
 *.token
+
+# Playwright MCP artifacts
+.playwright-mcp/
